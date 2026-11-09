@@ -1,6 +1,6 @@
 # Registro de cambios
 
-Todos los cambios importantes de este proyecto se apuntan en este archivo.
+ Todos los cambios importantes de este proyecto se apuntan en este archivo.
 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
